@@ -1,3 +1,4 @@
 spam score is 78%
 
-ham score is 40%
+ham score is 30%
+
